@@ -1,0 +1,99 @@
+%This is Janet's for the NSF.
+\documentclass[11pt]{article}
+\usepackage{graphicx,color}
+\usepackage{rotating}
+\usepackage{epsfig,graphics,rotate,color}
+\usepackage{wrapfig}
+\topmargin 0pt
+\advance \topmargin by -\headheight
+\advance \topmargin by -\headsep
+\textheight 8.9in     
+\oddsidemargin 0pt
+\evensidemargin \oddsidemargin
+\marginparwidth 0.5in
+\textwidth 6.5in
+
+%This is mine for changing the font.
+\usepackage[T1]{fontenc}
+\usepackage{times}
+ \usepackage{hyperref}
+
+%This is for NSF style
+\bibliographystyle{utphys}
+
+\begin{document} 
+%Do this myself
+\begin{center}
+Exotic Neutrinoless Double-Beta Decay Searches with Tellurium Dioxide Bolometers \\
+Lindley Winslow, Assistant Professor\\
+University of California Los Angles\\
+310-825-6897, lwinslow@physics.ucla.edu\\
+Year Doctorate Awarded: 2008\\
+Number of Times Previously Applied: 0\\
+Funding Opportunity Announcement Number: DE-FOA-0000958\\
+\end{center}
+
+Even after more than a decade of great discoveries, the neutrino remains the most mysterious of the known fundamental particles. Basic questions about its properties endure, the most basic being whether the neutrino is its own antiparticle. If true, this Majorana nature of the neutrino would have profound implications to particle physics and cosmology, including a possible explanation for the matter-antimatter asymmetry in the universe. The only feasible probes of the Majorana nature of the neutrino are low-energy neutrino experiments searching for the rare nuclear process of neutrinoless double-beta decay ($0\nu\beta\beta$). For this reason, both the American Physical Society (APS) Multidivisional Neutrino Study\cite{numatrix} and 2012's National Academy report on nuclear physics\cite{national2012Nuclear} cite these as critical experiments with great discovery potential.
+
+The Cryogenic Underground Observatory for Rare Events (CUORE) experiment's main focus is the search for $0\nu\beta\beta$.  It uses TeO$_{2}$ crystals operated as bolometers to look for the $0\nu\beta\beta$ of $^{130}$Te. This is an interesting technique which provides excellent energy resolution matched only by germanium detectors. CUORE is the current generation of bolometer based searches. The previous generation CUORICINO ran from 2003-2008. It consisted of one tower of crystals representing 11.3~kg of isotope, obtained a background level of 0.15~counts / (keV kg yr) in the region of interest, and they were able to set a limit on the $T_{1/2}^{0\nu}>2.8\times10^{24}$~yrs at the 90\% C.L.\cite{CC2008}. CUORE will consist of 19 towers and 206~kg of isotope. Due to a combination of improvements in crystals handling and cryostat materials, the background level is expected to be better than 0.01~counts/(keV kg yr).  After 5~years of running, this corresponds to $T_{1/2}^{0\nu}>9.5\times10^{25}$~yrs at the 90\% C.L. which means CUORE will be one of the first experiments with the sensitivity to probe the $0\nu\beta\beta$ parameter space corresponding to the inverted hierarchy for neutrino mass. 
+
+The first tower of CUORE crystals was completed (CUORE-0)  and is operating in the CUORICINO cryostat. Preliminary results indicate that the goals for background reduction and energy resolution are being achieved. The full CUORE is currently under construction and is on schedule to be completed by the end of 2014. It is a great time for a new group to join the experiment and provide additional man power to key areas, especially considering the challenges scaling up from one tower to 19 towers and 988 crystals. Two areas have been identified for the PI's group: slow monitoring and Monte Carlo (MC) development and tuning. The MC work naturally lends itself to more difficult analyses where the background model will be more critical. For this reason, the analysis focus for this proposal is exotic  searches like the search for $0\nu\beta\beta$ through Majoron emission.
+
+The CUORE detector has three main components: the cryostat, the crystals, and the calibration system. The cryostat itself is composed of several subsystems: vacuum system, pulse tube coolers, dilution unit, cooling water system and various additional pressure and temperature sensors. The main data acquisition system (DAQ) is the crystal readout.  The calibration system has its own detailed control software for placing radioactive sources within the cryostat. Each subsystem of the cryostat also has its own control system, most of which are independent LabVIEW based interfaces.  The goal of the slow monitoring group is to centralize the ``slow data" for both monitoring the health of the detector in real time and for archiving this data to facilitate future data quality evaluation. It was decided that the slow monitoring system would be based on an existing software package. Several software packages were evaluated and TANGO\cite{tango} was selected due to its well documented LabVIEW interface and existing contacts with the developers.
+
+ %\cite{epics, midas, tango, tine, orca} 
+
+The Slow Monitoring group is composed of the PI's group at UCLA and the Bologna group. The Bologna group does not have anyone working full-time on the slow monitoring, so the PI's leadership is critical to this effort. A UCLA graduate student wrote the first version of CUORE specific user interface to TANGO, including a smartphone interface. This is now being evaluated, especially how it would interact with other DAQ and data quality interfaces. At the same time, a TANGO network is being setup onsite and the LabVIEW interfaces and network configuration tested.  This is a preliminary system and it will need to be enhanced and augmented as different components of the system come online. Additional devices are needed to monitor the environment in the detector building, especially vibrations which could influence the resolution of the detector\cite{vignati}. Some funds will be included in the full proposal for these additional devices.
+
+Like the Slow Monitoring group, the MC group needs more manpower as the full CUORE comes online. The CUORE and CUORE-0 geometry has been implemented. It builds on the CUORICINO simulation which means much of the basic physics is in place; however, once you start going into the details there are improvements to be made in many components from the double-beta decay generator to the readout simulation. Even without these improvements, we would like to obtain a detailed model of the backgrounds, now an order of magnitude lower than CUORICINO, to guide physics analyses and future detector upgrades. The PI's group is familiarizing themselves with the simulation, is working to streamline the installation procedure, and is evaluating the proposed background levels relative to several exotic $0\nu\beta\beta$ decay modes.
+
+The standard decay mode for $0\nu\beta\beta$ is through light Majorana neutrino exchange. This mode has the characteristic signal of an excess events with a total electron energy corresponding to the endpoint energy, 2.528~MeV for $^{130}$Te. Another class of models corresponds to $0\nu\beta\beta$ with the emission of a boson called the Majoron\cite{Gelmini:1980re,Burgess:1993xh, Bamert:1994hb}. These models are characterized by a broader energy spectrum due to the distribution of energy with one or more Majorons. Because of the broader energy spectrum and lower energies, these analyses require more precise knowledge of the background distribution and more advanced statistical methods will be needed to extract the signal. The PI's group will work on developing these tools and applying them both to the Majoron analysis and the main $0\nu\beta\beta$ analysis where they will improve that analysis as well.
+
+The proposal to follow will primarily support a graduate student and postdoctoral researcher at UCLA. They have well-defined tasks in both hardware and software and provide key manpower at a critical time for the experiment. CUORE is well positioned for exciting new physics results in the coming years and the support of a new group at this time will ensure the maximum physics output from this versatile detector.
+
+%Here is the bibliography
+\bibliography{Winslow_PreApp2013} 
+
+\newpage
+\noindent
+{\large \textbf{Collaborators and Co-Editors} }\\
+
+\textbf{CUORE}\\
+Frank Avignone, University of South Carolina\\
+Brian Fujikawa, Lawrence Berkeley National Lab \\
+Karsten Heeger, Yale Universisty\\
+Thomas Gutierrez, Cal Poly San Luis Obispo \\
+Richard Kadel, Lawrence Berkeley National Lab \\
+Yury Kolomensky, University of California Berkeley\\
+Reina Maruyama, Yale University\\
+
+\textbf{Double Chooz}\\
+Edward Blucher, University of Chicago \\
+Jerome Busenitz, University of Alabama \\
+Zelimir Djurcic, Argonne National Lab\\
+Yuri Efremenko, University of Tennessee\\
+Maury Goodman, Argonne National Lab\\
+Glenn Horton-Smith, Kansas State University \\
+Yuri Kamyshkov, University of Tennessee \\
+Charles Lane, Drexel University\\
+Camillo Mariani, Virginia Tech\\
+Jelena Maricic, University of Hawaii\\
+Michael Shaevitz, Columbia University\\
+Ion Stancu, University of Alabama \\
+Robert Svboda, University of California Davis \\
+
+\textbf{KamLAND}\\
+Bruce Berger, Colorado State University \\ 
+Jason Detwiler, University of Washington \\
+John Learned, University of Hawaii \\
+Andreas Piepke, University of Alabama \\
+Werner Tornow, Duke University \\
+
+\textbf{Other}\\
+Henry Frisch, University of Chicago \\
+
+\noindent
+\textbf{Graduate Advisor:} Stuart Freedman, University of California Berkeley \\
+\textbf{Postdoctoral Advisor:} Janet Conrad, Massachusetts Institute of Technology\\
+
+\end{document}  

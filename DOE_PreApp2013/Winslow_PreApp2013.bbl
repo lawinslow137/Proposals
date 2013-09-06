@@ -1,0 +1,58 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{numatrix}
+{\bfseries APS Multidivisional Neutrino Study} Collaboration, S.~J. Freedman
+  and B.~Kayser, ``{The Neutrino matrix},''
+\href{http://arxiv.org/abs/physics/0411216}{{\ttfamily arXiv:physics/0411216
+  [physics]}}.
+%%CITATION = PHYSICS/0411216;%%.
+
+\bibitem{national2012Nuclear}
+{\em Nuclear Physics: Exploring the Heart of Matter}.
+\newblock The National Academies Press, 2012.
+
+\bibitem{CC2008}
+{\bfseries CUORICINO} Collaboration, C.~Arnaboldi {\em et~al.}, ``{Results from
+  a search for the 0 neutrino beta beta-decay of Te-130},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.78.035502}{{\em Phys.Rev.}
+  {\bfseries C78} (2008) 035502},
+\href{http://arxiv.org/abs/0802.3439}{{\ttfamily arXiv:0802.3439 [hep-ex]}}.
+%%CITATION = ARXIV:0802.3439;%%.
+
+\bibitem{tango}
+``{TANGO},'' September, 2013.
+\newblock \url{http://www.tango-controls.org/}.
+
+\bibitem{vignati}
+M.~Vignati, \href{http://dx.doi.org/10.1007/978-94-007-1232-4}{{\em {Model of
+  the Response Function of CUORE Bolometers}}}.
+\newblock {SpringerLink},
+2011.
+\newblock
+%%CITATION = INSPIRE-1224041;%%.
+
+\bibitem{Gelmini:1980re}
+G.~Gelmini and M.~Roncadelli, ``{Left-Handed Neutrino Mass Scale and
+  Spontaneously Broken Lepton Number},''
+\href{http://dx.doi.org/10.1016/0370-2693(81)90559-1}{{\em Phys.Lett.}
+  {\bfseries B99} (1981) 411}.
+%%CITATION = PHLTA,B99,411;%%.
+
+\bibitem{Burgess:1993xh}
+C.~Burgess and J.~M. Cline, ``{A New class of Majoron emitting double beta
+  decays},'' \href{http://dx.doi.org/10.1103/PhysRevD.49.5925}{{\em Phys.Rev.}
+  {\bfseries D49} (1994) 5925--5944},
+\href{http://arxiv.org/abs/hep-ph/9307316}{{\ttfamily arXiv:hep-ph/9307316
+  [hep-ph]}}.
+%%CITATION = HEP-PH/9307316;%%.
+
+\bibitem{Bamert:1994hb}
+P.~Bamert, C.~Burgess, and R.~Mohapatra, ``{Multi - Majoron modes for
+  neutrinoless double beta decay},''
+  \href{http://dx.doi.org/10.1016/0550-3213(95)00273-U}{{\em Nucl.Phys.}
+  {\bfseries B449} (1995) 25--48},
+\href{http://arxiv.org/abs/hep-ph/9412365}{{\ttfamily arXiv:hep-ph/9412365
+  [hep-ph]}}.
+%%CITATION = HEP-PH/9412365;%%.
+
+\end{thebibliography}\endgroup
