@@ -1,0 +1,88 @@
+
+%%%%%%%%% MASTER -- compiles the 4 sections
+
+\documentclass[11pt,letterpaper]{article}
+
+%I need some math formatting.
+\usepackage{amssymb, amsmath}
+%And some plots.
+ \usepackage{graphicx}
+ \usepackage{wrapfig}
+ \usepackage{hyperref}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{plain}                                                      %%
+%\pagestyle{hep}                                                      %%
+%%%%%%%%%% EXACT 1in MARGINS %%%%%%%                                   %%
+\setlength{\textwidth}{6.5in}     %%                                   %%
+\setlength{\oddsidemargin}{0in}   %% (It is recommended that you       %%
+\setlength{\evensidemargin}{0in}  %%  not change these parameters,     %%
+\setlength{\textheight}{8.5in}    %%  at the risk of having your       %%
+\setlength{\topmargin}{0in}       %%  proposal dismissed on the basis  %%
+\setlength{\headheight}{0in}      %%  of incorrect formatting!!!)      %%
+\setlength{\headsep}{0in}         %%                                   %%
+\setlength{\footskip}{.5in}       %%                                   %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                   %%
+\newcommand{\required}[1]{\section*{\hfil #1\hfil}}                    %%
+\renewcommand{\refname}{\hfil References Cited\hfil}                   %%
+%\bibliographystyle{plain}                                              %%
+%\bibliographystyle{h-elsevier}                                              %%
+\bibliographystyle{utphys}    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%PUT YOUR MACROS HERE
+\newcommand{\isomain}{$^{130}$Te} 
+\newcommand{\isoge}{$^{76}$Ge} 
+\newcommand{\isoxe}{$^{136}$Xe} 
+\newcommand{\zeronu}{$0\nu\beta\beta$}
+\newcommand{\twonu}{$2\nu\beta\beta$}
+\newcommand{\maj}{$0\nu\beta\beta\chi$}
+
+
+\begin{document}
+
+\begin{titlepage}
+\begin{center}
+{\LARGE Neutrino Studies at UCLA}
+
+{\Large Lindley Winslow}
+
+\vfill
+{\Large October 2012}
+\end{center}
+\end{titlepage}
+
+%Table of contents
+\tableofcontents
+\setcounter{page}{0}
+
+\include{NSFsumm_Winslow2012}
+\setcounter{page}{1}
+
+\include{NSFdesc_Winslow2012}
+\setcounter{page}{1}
+
+\bibliography{NSF_Winslow2012}
+%\include{NSFrefs_Winslow2012}
+
+\include{NSFbio_Winslow2012}
+\setcounter{page}{1}
+
+\include{NSFsupport_Winslow2012}
+\setcounter{page}{1}
+
+
+\include{NSFbudget_Winslow2012}
+\setcounter{page}{1}
+
+\include{NSFmentor_Winslow2012}
+\setcounter{page}{1}
+
+\include{NSFdata_Winslow2012}
+\setcounter{page}{1}
+
+\include{NSFfacility_Winslow2012}
+\setcounter{page}{1}
+
+
+\end{document}
