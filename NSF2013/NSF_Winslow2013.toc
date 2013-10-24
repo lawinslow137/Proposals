@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Motivation}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Neutrino Oscillation: Neutrino Mass to Precision Measurements}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Neutrinoless Double Beta Decay}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}CUORE Experiment}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Commissioning and Analysis Manpower}{5}{subsection.2.4}
+\contentsline {section}{\numberline {3}Research Plan}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Previous Experience}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Double Chooz Experience}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Continuing Work}{10}{subsection.3.3}
+\contentsline {section}{\numberline {4}Proposed Research Plan}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}CUORE: The Search for Neutrinoless Double-Beta Decay}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Hardware Focus: Slow Monitoring}{13}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Analysis Focus: Monte Carlo and Exotic Double Beta-Decay Searches}{14}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Group Plan}{16}{subsection.4.4}
+\contentsline {section}{\numberline {5}Broader Impacts}{17}{section.5}
+\contentsline {subsection}{\numberline {5.1}CUORE: The Search for Neutrinoless Double-Beta Decay}{17}{subsection.5.1}
+\contentsline {section}{\numberline {6}Conclusion}{18}{section.6}
+\contentsline {section}{\numberline {7}Budget Justification}{1}{section.7}
+\contentsline {subsection}{\numberline {7.1}Personnell}{1}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Materials and Supplies}{1}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Travel}{1}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Other Direct Costs}{1}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}Indirect Costs}{2}{subsection.7.5}
+\contentsline {section}{\numberline {8}Postdoctoral Researcher Mentoring Plan}{1}{section.8}
+\contentsline {section}{\numberline {9}Data Management Plan}{1}{section.9}
+\contentsline {section}{\numberline {10}Facilities, Equipment, and Other Resource}{1}{section.10}

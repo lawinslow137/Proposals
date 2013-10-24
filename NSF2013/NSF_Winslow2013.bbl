@@ -1,0 +1,354 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{numatrix}
+{\bfseries APS Multidivisional Neutrino Study} Collaboration, S.~J. Freedman
+  and B.~Kayser, ``{The Neutrino matrix},''
+\href{http://arxiv.org/abs/physics/0411216}{{\ttfamily arXiv:physics/0411216
+  [physics]}}.
+%%CITATION = PHYSICS/0411216;%%.
+
+\bibitem{national2012Nuclear}
+{\em Nuclear Physics: Exploring the Heart of Matter}.
+\newblock The National Academies Press, 2012.
+
+\bibitem{EXO2012}
+{\bfseries EXO} Collaboration, M.~Auger {\em et~al.}, ``{Search for
+  Neutrinoless Double-Beta Decay in $^{136}\mathrm{Xe}$ with EXO-200},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.109.032505}{{\em Phys. Rev.
+  Lett.} {\bfseries 109} (Jul, 2012) 032505}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.109.032505}.
+
+\bibitem{KZ2nu}
+{\bfseries KamLAND-Zen} Collaboration, A.~Gando {\em et~al.}, ``{Measurement of
+  the double-$\beta$ decay half-life of $^{136}$Xe with the KamLAND-Zen
+  experiment},'' \href{http://dx.doi.org/10.1103/PhysRevC.85.045504}{{\em Phys.
+  Rev. C} {\bfseries 85} (Apr, 2012) 045504}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.85.045504}.
+
+\bibitem{KKK2006}
+H.~Klapdor-Kleingrothaus and I.~Krivosheina, ``{The evidence for the
+  observation of 0nu beta beta decay: The identification of 0nu beta beta
+  events from the full spectra},''
+\href{http://dx.doi.org/10.1142/S0217732306020937}{{\em Mod.Phys.Lett.}
+  {\bfseries A21} (2006) 1547--1566}.
+%%CITATION = MPLAE,A21,1547;%%.
+
+\bibitem{CC2008}
+{\bfseries CUORICINO} Collaboration, C.~Arnaboldi {\em et~al.}, ``{Results from
+  a search for the 0 neutrino beta beta-decay of Te-130},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.78.035502}{{\em Phys.Rev.}
+  {\bfseries C78} (2008) 035502},
+\href{http://arxiv.org/abs/0802.3439}{{\ttfamily arXiv:0802.3439 [hep-ex]}}.
+%%CITATION = ARXIV:0802.3439;%%.
+
+\bibitem{Pontecorvo:1957qd}
+B.~Pontecorvo, ``{Inverse Beta Processes and Non-Conservation of Lepton
+  Charge},''
+{\em Sov. Phys. JETP} {\bfseries 7} (1958) 172--173.
+%%CITATION = SPHJA,7,172;%%.
+
+\bibitem{Maki:1962mu}
+Z.~Maki, M.~Nakagawa, and S.~Sakata, ``{Remarks on the Unified Model of
+  Elementary Particles},''
+\href{http://dx.doi.org/10.1143/PTP.28.870}{{\em Prog. Theor. Phys.} {\bfseries
+  28} (1962) 870}.
+%%CITATION = PTPKA,28,870;%%.
+
+\bibitem{Alonso:2010fs}
+{\bfseries DAEdALUS} Collaboration, J.~Alonso {\em et~al.}, ``{Expression of
+  Interest for a Novel Search for CP Violation in the Neutrino Sector:
+  DAEdALUS},''
+\href{http://arxiv.org/abs/1006.0260}{{\ttfamily arXiv:1006.0260
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:1006.0260;%%.
+
+\bibitem{RevBB}
+F.~T. Avignone~III, S.~R. Elliott, and J.~Engel, ``{Double Beta Decay, Majorana
+  Neutrinos, and Neutrino Mass},''
+  \href{http://dx.doi.org/10.1103/RevModPhys.80.481}{{\em Rev.Mod.Phys.}
+  {\bfseries 80} (2008) 481--516},
+\href{http://arxiv.org/abs/0708.1033}{{\ttfamily arXiv:0708.1033 [nucl-ex]}}.
+%%CITATION = ARXIV:0708.1033;%%.
+
+\bibitem{Alessandria:2011rc}
+{\bfseries CUORE} Collaboration, F.~Alessandria {\em et~al.}, ``{Sensitivity of
+  CUORE to Neutrinoless Double-Beta Decay},''
+\href{http://arxiv.org/abs/1109.0494}{{\ttfamily arXiv:1109.0494 [nucl-ex]}}.
+%%CITATION = ARXIV:1109.0494;%%.
+
+\bibitem{sens0nu}
+F.~T. Avignone~III, G.~S. King~III, and Y.~G. Zdesenko, ``{Next generation
+  double-beta decay experiments: metrics for their evaluation},'' {\em New
+  Journal of Physics} {\bfseries 7} no.~1, (2005) 6.
+  \url{http://stacks.iop.org/1367-2630/7/i=1/a=006}.
+
+\bibitem{qdot}
+L.~Winslow and R.~Simpson, ``{Characterizing quantum-dot-doped liquid
+  scintillator for applications to neutrino detectors},'' {\em Journal of
+  Instrumentation} {\bfseries 7} no.~07, (2012) P07010.
+  \url{http://stacks.iop.org/1748-0221/7/i=07/a=P07010}.
+
+\bibitem{qdot2013}
+C.~Aberle, J.~Li, S.~Weiss, and L.~Winslow, ``{Optical Properties of
+  Quantum-Dot-Doped Liquid Scintillators},''
+\href{http://arxiv.org/abs/1307.4742}{{\ttfamily arXiv:1307.4742
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:1307.4742;%%.
+
+\bibitem{direction2013}
+C.~Aberle, A.~Elagin, H.~Frisch, M.~Wetstein, and L.~Winslow, ``{Measuring
+  Directionality in Double-Beta Decay and Neutrino Interactions with
+  Kiloton-Scale Scintillation Detectors},''
+\href{http://arxiv.org/abs/1307.5813}{{\ttfamily arXiv:1307.5813
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:1307.5813;%%.
+
+\bibitem{Fiorini198483}
+E.~Fiorini and T.~Niinikoski, ``{Low-temperature calorimetry for rare
+  decays},'' \href{http://dx.doi.org/10.1016/0167-5087(84)90449-6}{{\em
+  Nucl.Instrum.Meth.A} {\bfseries 224} no.~1-2, (1984) 83 -- 88}.
+  \url{http://www.sciencedirect.com/science/article/pii/0167508784904496}.
+
+\bibitem{KZ0nu}
+{\bfseries KamLAND-Zen} Collaboration, A.~Gando {\em et~al.}, ``{Limit on
+  Neutrinoless $\beta\beta$ Decay of Xe-136 from the First Phase of KamLAND-Zen
+  and Comparison with the Positive Claim in Ge-76},'' {\em Phys.Rev.Lett.}
+  {\bfseries 110} (2013) 062502,
+\href{http://arxiv.org/abs/1211.3863}{{\ttfamily arXiv:1211.3863 [hep-ex]}}.
+%%CITATION = ARXIV:1211.3863;%%.
+
+\bibitem{gerda2013}
+{\bfseries GERDA Collaboration} Collaboration, M.~Agostini {\em et~al.},
+  ``{Results on neutrinoless double beta decay of 76Ge from GERDA Phase I},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.111.122503}{{\em Phys.Rev.Lett.}
+  {\bfseries 111} (2013) 122503},
+\href{http://arxiv.org/abs/1307.4720}{{\ttfamily arXiv:1307.4720 [nucl-ex]}}.
+%%CITATION = ARXIV:1307.4720;%%.
+
+\bibitem{Eguchi:2002dm}
+{\bfseries KamLAND} Collaboration, K.~Eguchi {\em et~al.}, ``{First results
+  from KamLAND: Evidence for reactor anti-neutrino disappearance},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.90.021802}{{\em Phys.Rev.Lett.}
+  {\bfseries 90} (2003) 021802},
+\href{http://arxiv.org/abs/hep-ex/0212021}{{\ttfamily arXiv:hep-ex/0212021
+  [hep-ex]}}.
+%%CITATION = HEP-EX/0212021;%%.
+
+\bibitem{Araki:2004mb}
+{\bfseries KamLAND} Collaboration, T.~Araki {\em et~al.}, ``{Measurement of
+  neutrino oscillation with KamLAND: Evidence of spectral distortion},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.94.081801}{{\em Phys.Rev.Lett.}
+  {\bfseries 94} (2005) 081801},
+\href{http://arxiv.org/abs/hep-ex/0406035}{{\ttfamily arXiv:hep-ex/0406035
+  [hep-ex]}}.
+%%CITATION = HEP-EX/0406035;%%.
+
+\bibitem{Abe:2008aa}
+{\bfseries KamLAND} Collaboration, S.~Abe {\em et~al.}, ``{Precision
+  Measurement of Neutrino Oscillation Parameters with KamLAND},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.100.221803}{{\em Phys.Rev.Lett.}
+  {\bfseries 100} (2008) 221803},
+\href{http://arxiv.org/abs/0801.4589}{{\ttfamily arXiv:0801.4589 [hep-ex]}}.
+%%CITATION = ARXIV:0801.4589;%%.
+
+\bibitem{Gando:2010aa}
+{\bfseries KamLAND} Collaboration, A.~Gando {\em et~al.}, ``{Constraints on
+  $\theta_{13}$ from A Three-Flavor Oscillation Analysis of Reactor
+  Antineutrinos at KamLAND},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.83.052002}{{\em Phys.Rev.}
+  {\bfseries D83} (2011) 052002},
+\href{http://arxiv.org/abs/1009.4771}{{\ttfamily arXiv:1009.4771 [hep-ex]}}.
+%%CITATION = ARXIV:1009.4771;%%.
+
+\bibitem{fourpi}
+{\bfseries KamLAND} Collaboration, B.~Berger {\em et~al.}, ``{The KamLAND
+  Full-Volume Calibration System},''
+  \href{http://dx.doi.org/10.1088/1748-0221/4/04/P04017}{{\em JINST} {\bfseries
+  4} (2009) P04017},
+\href{http://arxiv.org/abs/0903.0441}{{\ttfamily arXiv:0903.0441
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:0903.0441;%%.
+
+\bibitem{Leonard:2007uv}
+D.~Leonard, P.~Grinberg, P.~Weber, E.~Baussan, Z.~Djurcic, G.~Keefer,
+  A.~Piepke, A.~Pocar, J.-L. Vuilleumier, J.-M. Vuilleumier, D.~Akimov,
+  A.~Bellerive, M.~Bowcock, M.~Breidenbach, A.~Burenkov, R.~Conley,
+  W.~Craddock, M.~Danilov, R.~DeVoe, M.~Dixit, A.~Dolgolenko, I.~Ekchtout,
+  W.~F. Jr., J.~Farine, P.~Fierlinger, B.~Flatt, G.~Gratta, M.~Green, C.~Hall,
+  K.~Hall, D.~Hallman, C.~Hargrove, R.~Herbst, J.~Hodgson, S.~Jeng,
+  S.~Kolkowitz, A.~Kovalenko, D.~Kovalenko, F.~LePort, D.~Mackay, M.~Moe, M.~M.
+  DÌ?ez, R.~Neilson, A.~Odian, K.~O‰ÛªSullivan, L.~Ounalli, C.~Prescott,
+  P.~Rowson, D.~Schenker, D.~Sinclair, K.~Skarpaas, G.~Smirnov, V.~Stekhanov,
+  V.~Strickland, C.~Virtue, K.~Wamba, and J.~Wodin, ``{Systematic study of
+  trace radioactive impurities in candidate construction materials for
+  EXO-200},'' \href{http://dx.doi.org/10.1016/j.nima.2008.03.001}{{\em
+  Nucl.Instrum.Meth.A} {\bfseries A591} (2008) 490--509},
+\href{http://arxiv.org/abs/0709.4524}{{\ttfamily arXiv:0709.4524
+  [physics.ins-det]}}.
+%%CITATION = ARXIV:0709.4524;%%.
+
+\bibitem{kamspall}
+{\bfseries KamLAND} Collaboration, S.~Abe {\em et~al.}, ``{Production of
+  Radioactive Isotopes through Cosmic Muon Spallation in KamLAND},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.81.025807}{{\em Phys.Rev.}
+  {\bfseries C81} (2010) 025807},
+\href{http://arxiv.org/abs/0907.0066}{{\ttfamily arXiv:0907.0066 [hep-ex]}}.
+%%CITATION = ARXIV:0907.0066;%%.
+
+\bibitem{kamboron}
+{\bfseries KamLAND} Collaboration, S.~Abe {\em et~al.}, ``{Measurement of the
+  8B Solar Neutrino Flux with the KamLAND Liquid Scintillator Detector},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.84.035804}{{\em Phys.Rev.}
+  {\bfseries C84} (2011) 035804},
+\href{http://arxiv.org/abs/1106.0861}{{\ttfamily arXiv:1106.0861 [hep-ex]}}.
+%%CITATION = ARXIV:1106.0861;%%.
+
+\bibitem{skboron}
+{\bfseries Super-Kamiokande} Collaboration, K.~Abe {\em et~al.}, ``{Solar
+  neutrino results in Super-Kamiokande-III},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.83.052010}{{\em Phys. Rev. D}
+  {\bfseries 83} (Mar, 2011) 052010}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevD.83.052010}.
+
+\bibitem{snoboron}
+{\bfseries SNO} Collaboration, B.~Aharmim {\em et~al.}, ``{Combined Analysis of
+  all Three Phases of Solar Neutrino Data from the Sudbury Neutrino
+  Observatory},''
+\href{http://arxiv.org/abs/1109.0763}{{\ttfamily arXiv:1109.0763 [nucl-ex]}}.
+%%CITATION = ARXIV:1109.0763;%%.
+
+\bibitem{borexinoboron}
+{\bfseries Borexino} Collaboration, G.~Bellini {\em et~al.}, ``{Measurement of
+  the solar $^{8}\mathrm{B}$ neutrino rate with a liquid scintillator target
+  and 3~MeV energy threshold in the Borexino detector},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.82.033006}{{\em Phys. Rev. D}
+  {\bfseries 82} (Aug, 2010) 033006}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevD.82.033006}.
+
+\bibitem{dayabay}
+{\bfseries Daya Bay} Collaboration, F.~P. An {\em et~al.}, ``{Observation of
+  Electron-Antineutrino Disappearance at Daya Bay},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.108.171803}{{\em Phys. Rev.
+  Lett.} {\bfseries 108} (Apr, 2012) 171803}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.108.171803}.
+
+\bibitem{reno}
+{\bfseries RENO} Collaboration, J.~K. Ahn {\em et~al.}, ``{Observation of
+  Reactor Electron Antineutrinos Disappearance in the RENO Experiment},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.108.191802}{{\em Phys. Rev.
+  Lett.} {\bfseries 108} (May, 2012) 191802}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.108.191802}.
+
+\bibitem{dcone}
+{\bfseries Double Chooz} Collaboration, Y.~Abe {\em et~al.}, ``{Indication of
+  Reactor $\overline{\nu}_{e}$ Disappearance in the Double Chooz Experiment},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.108.131801}{{\em Phys. Rev.
+  Lett.} {\bfseries 108} (Mar, 2012) 131801}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.108.131801}.
+
+\bibitem{dctwo}
+{\bfseries Double Chooz} Collaboration, Y.~Abe {\em et~al.}, ``{Reactor
+  electron antineutrino disappearance in the Double Chooz experiment},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.86.052008}{{\em Phys.Rev.}
+  {\bfseries D86} (2012) 052008},
+\href{http://arxiv.org/abs/1207.6632}{{\ttfamily arXiv:1207.6632 [hep-ex]}}.
+%%CITATION = ARXIV:1207.6632;%%.
+
+\bibitem{DRAGON1994}
+G.~Marleau, R.~Roy, and A.~Hebert, ``{DRAGON: A Collision Probability Transport
+  Code for Cell and Supercell Calculations},'' {\em Report IGE-157} (1994) .
+
+\bibitem{MURECode}
+{\bfseries MURE} Collaboration, ``{MURE, MCNP Utility for Reactor Evolution:
+  couples Monte-Carlo transport with fuel burnup calculations},'' {\em
+  NEA-1845/01} (2009) .
+
+\bibitem{Meplan2005}
+{\bfseries MURE} Collaboration, O.~Meplan {\em et~al.}, ``{MURE: MCNP Utility
+  for Reactor Evolution},'' in {\em ENC 2005: European Nuclear Conference ;
+  Nuclear power for the XXIst century: from basic research to high-tech
+  industry}.
+\newblock 2005.
+
+\bibitem{takahama}
+C.~L. Jones, A.~Bernstein, J.~M. Conrad, Z.~Djurcic, M.~Fallot, L.~Giot,
+  G.~Keefer, A.~Onillon, and L.~Winslow, ``{Reactor simulation for antineutrino
+  experiments using DRAGON and MURE},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.86.012001}{{\em Phys. Rev. D}
+  {\bfseries 86} (Jul, 2012) 012001}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevD.86.012001}.
+
+\bibitem{Danevich2001}
+F.~Danevich, V.~Kobychev, O.~Ponkratenko, V.~Tretyak, and Y.~Zdesenko, ``{Quest
+  for double beta decay of 160Gd and Ce isotopes},''
+  \href{http://dx.doi.org/10.1016/S0375-9474(01)00983-6}{{\em Nuclear Physics
+  A} {\bfseries 694} no.~1‰ÛÒ2, (2001) 375 -- 391}.
+  \url{http://www.sciencedirect.com/science/article/pii/S0375947401009836}.
+
+\bibitem{phasespace}
+J.~Kotila and F.~Iachello, ``{Phase-space factors for double-$\beta$ decay},''
+  \href{http://dx.doi.org/10.1103/PhysRevC.85.034316}{{\em Phys. Rev. C}
+  {\bfseries 85} (Mar, 2012) 034316}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.85.034316}.
+
+\bibitem{epics}
+``{EPICS},'' October, 2012.
+\newblock \url{http://www.aps.anl.gov/epics/}.
+
+\bibitem{midas}
+``{MIDAS},'' October, 2012.
+\newblock \url{http://midas.psi.ch}.
+
+\bibitem{tango}
+``{TANGO},'' September, 2013.
+\newblock \url{http://www.tango-controls.org/}.
+
+\bibitem{tine}
+``{TINE},'' October, 2012.
+\newblock \url{http://adweb.desy.de/mcs/tine/}.
+
+\bibitem{orca}
+``{ORCA},'' October, 2012.
+\newblock \url{http://orca.physics.unc.edu}.
+
+\bibitem{KZMaj}
+{\bfseries KamLAND-Zen} Collaboration, A.~Gando {\em et~al.}, ``{Limits on
+  Majoron-emitting double-$\beta$ decays of $^{136}$Xe in the KamLAND-Zen
+  experiment},'' \href{http://dx.doi.org/10.1103/PhysRevC.86.021601}{{\em Phys.
+  Rev. C} {\bfseries 86} (Aug, 2012) 021601}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevC.86.021601}.
+
+\bibitem{nemo3Te}
+{\bfseries NEMO-3} Collaboration, R.~Arnold {\em et~al.}, ``{Measurement of the
+  $\beta\beta$ Decay Half-Life of $^{130}\mathrm{Te}$ with the NEMO-3
+  Detector},'' \href{http://dx.doi.org/10.1103/PhysRevLett.107.062504}{{\em
+  Phys. Rev. Lett.} {\bfseries 107} (Aug, 2011) 062504}.
+  \url{http://link.aps.org/doi/10.1103/PhysRevLett.107.062504}.
+
+\bibitem{laura}
+L.~Kogler, {\em {A measurement of the 2 neutrino double beta decay rate of
+  $^{130}$Te in the CUORICINO experiment}}.
+\newblock PhD thesis, University of California Berkeley, 2011.
+
+\bibitem{isodar}
+{\bfseries IsoDAR} Collaboration, A.~Bungau {\em et~al.}, ``{Proposal for an
+  Electron Antineutrino Disappearance Search Using High-Rate $^{8}$Li
+  Production and Decay},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.109.141802}{{\em Phys.Rev.Lett.}
+  {\bfseries 109} (2012) 141802},
+\href{http://arxiv.org/abs/1205.4419}{{\ttfamily arXiv:1205.4419 [hep-ex]}}.
+%%CITATION = ARXIV:1205.4419;%%.
+
+\bibitem{nuced}
+{\bfseries {DOE/NSF Nuclear Science Advisory Committee Subcommittee on
+  Education}} Collaboration, ``{Education in Nuclear Science: A Status Report
+  and recommendations for the Beginning of the 21st Century},''.
+
+\bibitem{Lopez201222}
+J.~Lopez, K.~Terao, J.~Conrad, D.~Dujmic, and L.~Winslow, ``{A prototype
+  detector for directional measurement of the cosmogenic neutron flux},''
+  \href{http://dx.doi.org/10.1016/j.nima.2012.01.021}{{\em Nucl.Instrum.Meth.A}
+  {\bfseries 673} no.~0, (2012) 22 -- 31}.
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900212000587}.
+
+\end{thebibliography}\endgroup

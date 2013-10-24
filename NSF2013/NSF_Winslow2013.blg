@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: NSF_Winslow2013.aux
+The style file: utphys.bst
+A level-1 auxiliary file: NSFsumm_Winslow2013.aux
+A level-1 auxiliary file: NSFdesc_Winslow2013.aux
+A level-1 auxiliary file: NSFbio_Winslow2013.aux
+A level-1 auxiliary file: NSFsupport_Winslow2013.aux
+A level-1 auxiliary file: NSFbudget_Winslow2013.aux
+A level-1 auxiliary file: NSFmentor_Winslow2013.aux
+A level-1 auxiliary file: NSFdata_Winslow2013.aux
+A level-1 auxiliary file: NSFfacility_Winslow2013.aux
+Database file #1: NSF_Winslow2013.bib
+Warning--I didn't find a database entry for "aware"
+Warning--I didn't find a database entry for "usbctr"
+Warning--I didn't find a database entry for "Abe:2012gw"
+Warning--I didn't find a database entry for "Abe:2012ar"
+Warning--empty author and editor in national2012Nuclear
+Warning--empty pages in DRAGON1994
+Warning--empty author in MURECode
+Warning--empty pages in MURECode
+Warning--empty author in nuced
+You've used 50 entries,
+            2328 wiz_defined-function locations,
+            950 strings with 14390 characters,
+and the built_in function-call counts, 15345 in all, are:
+= -- 1594
+> -- 567
+< -- 0
++ -- 209
+- -- 159
+* -- 1427
+:= -- 1819
+add.period$ -- 97
+call.type$ -- 50
+change.case$ -- 80
+chr.to.int$ -- 0
+cite$ -- 55
+duplicate$ -- 853
+empty$ -- 1412
+format.name$ -- 159
+if$ -- 4002
+int.to.chr$ -- 0
+int.to.str$ -- 50
+missing$ -- 163
+newline$ -- 207
+num.names$ -- 42
+pop$ -- 247
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 641
+stack$ -- 0
+substring$ -- 508
+swap$ -- 423
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 82
+width$ -- 52
+write$ -- 441
+(There were 9 warnings)
